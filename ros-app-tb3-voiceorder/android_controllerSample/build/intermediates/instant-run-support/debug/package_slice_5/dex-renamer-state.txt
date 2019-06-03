@@ -1,0 +1,4 @@
+#Thu May 30 13:18:39 CST 2019
+base.0=/home/roy/AuTURBO/ros-app-tb3-voiceorder/android_controllerSample/build/intermediates/transforms/dexMerger/debug/100
+path.0=classes.dex
+renamed.0=classes.dex
